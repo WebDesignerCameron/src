@@ -12,5 +12,5 @@ fetch('content.html')
     })
     .catch(error => {
         console.error('Error loading the HTML:', error);
-        document.getElementById('content-container').innerHTML = 'Failed to load content.';
+        document.getElementById('external-container').innerHTML = 'Failed to load content.';
     });
