@@ -1,0 +1,8 @@
+main {
+  color: white;
+  background: black;
+} 
+header, footer {
+  color: black;
+  background: white;
+} 
