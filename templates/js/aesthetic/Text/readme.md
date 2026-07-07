@@ -1,0 +1,2 @@
+# Text
+JS handling text. 
