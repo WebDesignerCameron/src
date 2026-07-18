@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Consolas', sans-serif;
+}
+header {
+    background: #2f2f2f;
+    color: white;
+    margin-bottom: 20px;
+    padding: 2ex;
+}
+.big1 {
+    font-size: 1.6em;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-weight: 800;
+}
+.big2 {
+    font-size: 1.3em;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+.logo {
+    margin: auto;
+    width: 350px;
+    height: auto;
+}
