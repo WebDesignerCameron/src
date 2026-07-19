@@ -1,2 +1,3 @@
 # Code
-Source code for Magimals Toxic. 
+Source code for Magimals Toxic. Files
+found here:.html, .js, .css.
