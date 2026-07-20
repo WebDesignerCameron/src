@@ -7,3 +7,5 @@ Shared Scalable Vector Graphics assets.
 ![WebDesignerCameron](logo-style-flat_square.svg)
 ![WebDesignerCameron](logo-style-plastic.svg)
 ![WebDesignerCameron](logo-style-social.svg)
+* made_by_style_*style*.svg: Made by WebDesignerCameron badge with style *style*
+![Made by WebDesignerCameron](made_by_style_flat.svg)
