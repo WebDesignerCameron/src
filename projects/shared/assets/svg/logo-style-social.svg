@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="145" height="20" role="img" aria-label="WebDesignerCameron">
+  <title>WebDesignerCameron</title>
+  <g shape-rendering="crispEdges">
+    <rect width="144" height="19" x="0.5" y="0.5" fill="#fafafa" stroke="#d5d5d5"/>
+  </g>
+  <g fill="#333" text-anchor="middle" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-weight="700" font-size="110">
+    <text x="725" y="140" transform="scale(.1)" fill="#333" textLength="1250">WebDesignerCameron</text>
+  </g>
+</svg>
