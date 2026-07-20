@@ -24,5 +24,6 @@ click
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Pug CLI](https://img.shields.io/badge/Pug-CLI-DF6F52?style=for-the-badge&logo=pug&logoColor=white)
