@@ -1,4 +1,6 @@
 # Source files
+![WebDesignerCameron](projects/shared/assets/svg/logo.svg)
+![Made by WebDesignerCameron](projects/shared/assets/svg/made_by.svg)
 ## Summary
 Source code for projects and template 
 code for users to copy. 
