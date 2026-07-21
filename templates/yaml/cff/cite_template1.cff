@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Cite this work as so."
+authors:
+  - given-name: "First Name"
+    family-name: "Last Name"
+    github: "GH Username"
+title: "Project Name"
+url: "Web URL" 
