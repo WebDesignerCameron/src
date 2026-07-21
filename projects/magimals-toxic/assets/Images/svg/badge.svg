@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="28" role="img" aria-label="Magimals Toxic">
+    <g shape-rendering="crispEdges">
+        <rect width="100%" height="100%" fill="#3f3" />
+    </g>
+    <g font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-weight="bold" font-size="16">
+        <text style="text-anchor: middle; dominant-baseline: middle; fill: #080;" x="70" y="14">
+            MAGIMALS TOXIC
+        </text>
+    </g>
+</svg>
