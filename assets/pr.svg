@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="102" height="28" role="img" aria-label="PRS: 0 OPEN">
+    <title>PRS: 0 OPEN</title>
+    <g shape-rendering="crispEdges">
+        <rect width="45" height="28" fill="#555555"/>
+        <rect x="45" width="57" height="28" fill="#2DA44E"/>
+    </g>
+    <g fill="#FFFFFF" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+        <text x="225" y="175" transform="scale(.1)" fill="#FFFFFF" font-weight="bold">PRS</text>
+        <text x="735" y="175" transform="scale(.1)" fill="#FFFFFF" font-weight="bold">0 OPEN</text>
+    </g>
+</svg>
