@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="134" height="28" role="img" aria-label="STATUS: PUBLIC">
+    <title>STATUS: PUBLIC</title>
+    <g shape-rendering="crispEdges">
+        <rect width="67" height="28" fill="#555555"/>
+        <rect x="67" width="67" height="28" fill="#4C1D95"/>
+    </g>
+    <g fill="#FFFFFF" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+        <text x="335" y="175" transform="scale(.1)" fill="#FFFFFF" font-weight="bold">STATUS</text>
+        <text x="1005" y="175" transform="scale(.1)" fill="#FFFFFF" font-weight="bold">PUBLIC</text>
+    </g>
+</svg>
