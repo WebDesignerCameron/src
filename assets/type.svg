@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="28" role="img" aria-label="TYPE: REPOSITORY">
+    <title>TYPE: REPOSITORY</title>
+    <g shape-rendering="crispEdges">
+        <rect width="53" height="28" fill="#555555"/>
+        <rect x="53" width="115" height="28" fill="#0969DA"/>
+    </g>
+    <g fill="#FFFFFF" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+        <text x="265" y="175" transform="scale(.1)" fill="#FFFFFF" font-weight="bold">TYPE</text>
+        <text x="1105" y="175" transform="scale(.1)" fill="#FFFFFF" font-weight="bold">REPOSITORY</text>
+    </g>
+</svg> 
