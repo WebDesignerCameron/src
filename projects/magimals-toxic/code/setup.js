@@ -3,7 +3,7 @@ window.addEventListener("load", ()=>{
     g.textContent="setup";
     // Load main menu
     let logo=document.createElement("img");
-    logo.src="../assets/Images/logo.jpg";
+    logo.src="src/projects/magimals-toxic/assets/Images/logo.jpg";
     logo.alt="Magimals Toxic Logo";
     logo.width=250;
     logo.height="auto";
