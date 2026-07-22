@@ -30,3 +30,8 @@ click
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Pug CLI](https://img.shields.io/badge/Pug-CLI-DF6F52?style=for-the-badge&logo=pug&logoColor=white)
 ![Git CLI](https://img.shields.io/badge/git_cli-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## GitHub Stats
+![Branches: 1](./assets/branch.svg)
+![Status: Public](./assets/status.svg)
+![Open PRs: 0](./assets/pr.svg)
+![Closed PRs: 1](./assets/closed.svg)
