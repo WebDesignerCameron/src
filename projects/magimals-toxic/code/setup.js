@@ -3,7 +3,7 @@ window.addEventListener("load", ()=>{
     g.textContent="setup";
     // Load main menu
     let logo=document.createElement("div");
-    logo.textContent=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="100%" height="100%">
+    logo.innerHTML=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="100%" height="100%">
   <defs>
     <radialGradient id="darkBg" cx="50%" cy="50%" r="70%">
       <stop offset="0%" stop-color="#004400" />
