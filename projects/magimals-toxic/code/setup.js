@@ -123,7 +123,7 @@ window.addEventListener("load", ()=>{
   </g>
 </svg>`;
     logo.width=30;
-    logo.class="over pos-50-65
+    logo.class="over pos-50-65";
     let frame=document.getElementById("frame");
     frame.appendChild(logo);
 })
