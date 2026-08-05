@@ -122,8 +122,34 @@ window.addEventListener("load", ()=>{
     <text x="540" y="450" font-family="'Impact', 'Arial Black', sans-serif" font-size="110" fill="#003500" stroke="#001500" stroke-width="4" letter-spacing="10">C</text>
   </g>
 </svg>`;
-    logo.width=30;
-    logo.class="over pos-50-65";
+    logo.width=(window.width/3);
+    logo.className="over pos-50-65";
+    let play=document.createElement("div");
+    play.textContent=`
+    <svg xmlns="http://www.w3.org/2000/svg" style="width: 20vw; height:3vw" viewBox="0 0 40 6">
+    <style>
+        .svg-play-background {
+            width: 100%;
+            height: 100%;
+            fill: #ff6b6b;
+            rx: 0.5vw;
+            ry: 0.5vw;
+        }
+        .svg-play-text {
+            fill: #ffffef;
+            text-anchor: middle;
+            dominant-baseline: middle;
+            font-size: 0.3rem;
+        }
+    </style>
+    <rect class="svg-play-background" />
+    <text x="20" y="3" class="svg-play-text">
+        PLAY
+    </text>
+    </svg>`;
+    play.width=play.firstChild.width;
+    play.height=play.firstChild.height;
+    play.className="over pos-50-20";
     let frame=document.getElementById("frame");
     frame.appendChild(logo);
 })
