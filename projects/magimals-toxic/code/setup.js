@@ -125,7 +125,7 @@ window.addEventListener("load", ()=>{
     logo.width=(window.width/3);
     logo.className="over pos-50-65";
     let play=document.createElement("div");
-    play.textContent=`
+    play.innerHTML=`
     <svg xmlns="http://www.w3.org/2000/svg" style="width: 20vw; height:3vw" viewBox="0 0 40 6">
     <style>
         .svg-play-background {
