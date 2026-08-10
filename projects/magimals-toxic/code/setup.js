@@ -152,4 +152,5 @@ window.addEventListener("load", ()=>{
     play.className="over pos-50-20";
     let frame=document.getElementById("frame");
     frame.appendChild(logo);
+    frame.appendChild(play);
 })
