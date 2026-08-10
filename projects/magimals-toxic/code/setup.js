@@ -149,7 +149,7 @@ window.addEventListener("load", ()=>{
     </svg>`;
     play.width=play.firstChild.width;
     play.height=play.firstChild.height;
-    play.className="over pos-50-20";
+    play.className="over pos-50-90";
     let frame=document.getElementById("frame");
     frame.appendChild(logo);
     frame.appendChild(play);
