@@ -1,0 +1,114 @@
+{
+    "normal": {
+        "moveCode": "NO",
+        "moves": [
+            
+        ]
+    },
+    "plant": {
+        "moveCode": "PL",
+        "moves": [
+            
+        ]
+    },
+    "water": {
+        "moveCode": "WA",
+        "moves": [
+            
+        ]
+    },
+    "flame": {
+        "moveCode": "FL",
+        "moves": [
+            
+        ]
+    },
+    "ice": {
+        "moveCode": "IC",
+        "moves": [
+            
+        ]
+    },
+    "ground": {
+        "moveCode": "GO",
+        "moves": [
+            
+        ]
+    },
+    "bug": {
+        "moveCode": "BU",
+        "moves": [
+            
+        ]
+    },
+    "dark": {
+        "moveCode": "BU",
+        "moves": [
+            
+        ]
+    },
+    "rock": {
+        "moveCode": "RO",
+        "moves": [
+            
+        ]
+    },
+    "iron": {
+        "moveCode": "IR",
+        "moves": [
+            
+        ]
+    },
+    "fairy": {
+        "moveCode": "FA",
+        "moves": [
+            
+        ]
+    },
+    "ghoul": {
+        "moveCode": "GH",
+        "moves": [
+            
+        ]
+    },
+    "psychic": {
+        "moveCode": "PS",
+        "moves": [
+            
+        ]
+    },
+    "electric": {
+        "moveCode": "EL",
+        "moves": [
+            
+        ]
+    },
+    "air": {
+        "moveCode": "AI",
+        "moves": [
+            
+        ]
+    },
+    "dragon": {
+        "moveCode": "DR",
+        "moves": [
+            
+        ]
+    },
+    "toxic": {
+        "moveCode": "TO",
+        "moves": [
+            
+        ]
+    },
+    "physical": {
+        "moveCode": "PH",
+        "moves": [
+            
+        ]
+    },
+    "data": {
+        "count": 18,
+        "stored": "typeData"
+    }
+}
