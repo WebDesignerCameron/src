@@ -2,7 +2,44 @@
     "normal": {
         "moveCode": "NO",
         "moves": [
-            
+            {
+                "id": 1,
+                "name": "Strike",
+                "damage": 7,
+                "accuracy": 75,
+                "priority": false,
+                "effects": [
+                    {
+                        "name": "None",
+                        "percentile": 100
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Wallop",
+                "damage": 17,
+                "accuracy": 75,
+                "priority": false,
+                "effects": [
+                    {
+                        "name": "None",
+                        "percentile": 100
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Swift Strike",
+                "damage": 10,
+                "accuracy": 85,
+                "priority": true,
+                "effects": [
+                    {
+                        "name": "None",
+                        "percentile": 100
+                    }
+                ]
         ]
     },
     "plant": {
