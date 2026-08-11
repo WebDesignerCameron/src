@@ -1,0 +1,55 @@
+{
+    "Grist": {
+        "magimalId": 1,
+        "name": "Grist",
+        "primaryType": "Plant",
+        "secondaryType": "Ground",
+        "stats": [
+            {
+                "hp": 14,
+                "attack": 9,
+                "defense": 15,
+                "speed": 11,
+                "spatk": 3,
+                "spdef": 5
+            },
+            {
+                "multiplier": 1.1
+            }
+        ],
+        "movePool": [
+            {
+                "levelLearned": 1,
+                "moveId": "PL001"
+            },
+            {
+                "levelLearned": 1,
+                "moveId": "NO001"
+            },
+            {
+                "levelLearned": 2,
+                "moveId": "PL006"
+            },
+            {
+                "levelLearned": 3,
+                "moveId": "NO003"
+            },
+            {
+                "levelLearned": 3,
+                "moveId": "GO002"
+            }
+            {
+                "levelLearned": 5,
+                "moveId": "PL005"
+            },
+            {
+                "levelLearned": 5,
+                "moveId": "WA002"
+            },
+            {
+                "levelLearned": 5,
+                "moveId": "DA003"
+            }
+        ]
+    }
+}
