@@ -31,6 +31,7 @@ click
 ![Pug CLI](https://img.shields.io/badge/Pug-CLI-DF6F52?style=for-the-badge&logo=pug&logoColor=white)
 ![Git CLI](https://img.shields.io/badge/git_cli-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-JSON-FFFF00?style=for-the-badge&logo=JSON&logoColor=white)
 ## GitHub Stats
 ![Branches: 1](./assets/branch.svg)
 ![Status: Public](./assets/status.svg)
