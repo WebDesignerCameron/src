@@ -145,8 +145,14 @@
             
         ]
     },
+    "melting" {
+        "moveCode": "ME",
+        "moves": [
+            
+        ]
+    }
     "data": {
-        "count": 18,
-        "stored": "typeData"
+        "count": 19,
+        "stored": ["typeData", "moveData"]
     }
 }
