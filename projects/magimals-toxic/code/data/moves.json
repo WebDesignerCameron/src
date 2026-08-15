@@ -5,41 +5,17 @@
             {
                 "id": 1,
                 "name": "Strike",
-                "damage": 7,
-                "accuracy": 75,
-                "priority": false,
-                "effects": [
-                    {
-                        "name": "None",
-                        "percentile": 100
-                    }
-                ]
+                "effects": "T(OPP) ACC(75) DMG(9) PRI(N)"
             },
             {
                 "id": 2,
                 "name": "Wallop",
-                "damage": 17,
-                "accuracy": 75,
-                "priority": false,
-                "effects": [
-                    {
-                        "name": "None",
-                        "percentile": 100
-                    }
-                ]
+                "effects": "T(OPP) ACC(75) DMG(17) PRI(N)"
             },
             {
                 "id": 3,
                 "name": "Swift Strike",
-                "damage": 10,
-                "accuracy": 85,
-                "priority": true,
-                "effects": [
-                    {
-                        "name": "None",
-                        "percentile": 100
-                    }
-                ]
+                "effects": "T(OPP) ACC(85) DMG(10) PRI(Y)"
             }
         ]
     },
