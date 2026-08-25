@@ -1,2 +1,2 @@
 # Assets
-Assets for the `src` repository. 
+Assets for the `WebDesignerCameron/src` repository. 
