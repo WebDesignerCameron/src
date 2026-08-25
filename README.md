@@ -36,5 +36,5 @@ click
 ![Branches: 1](./assets/branch.svg)
 ![Status: Public](./assets/status.svg)
 ![Open PRs: 0](./assets/pr.svg)
-![Closed PRs: 1](./assets/closed.svg)
+![Closed PRs: 2](./assets/closed.svg)
 ![Type: Repository](./assets/type.svg)
