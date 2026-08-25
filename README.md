@@ -16,7 +16,7 @@ click
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![CFF](https://img.shields.io/badge/CFF-Format-blue?style=for-the-badge)
+![CFF](https://img.shields.io/badge/CFF-Format-blue?style=for-the-badge&logo=yaml&logoColor=white)
 ![PUG](https://img.shields.io/badge/Pug-E35749?style=for-the-badge&logo=pug&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
