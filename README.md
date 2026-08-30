@@ -8,6 +8,7 @@ To go back to WebDesignerCameron,
 click
 [here](https://github.com/WebDesignerCameron). 
 ## Made with
+![Termux](https://img.shields.io/badge/termux-181717?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
