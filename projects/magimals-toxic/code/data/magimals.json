@@ -50,6 +50,35 @@
                 "levelLearned": 5,
                 "moveId": "DA003"
             }
-        ]
+        ],
+        "evolves": {
+            "from": null,
+            "to": "Grottle"
+        }
+    },
+    "Grottle": {
+        "magimalId": 2,
+        "name": "Grottle",
+        "primaryType": "Plant",
+        "secondaryType": "Ground",
+        "stats": [
+            {
+                "hp": 27,
+                "attack": 20,
+                "defense": 23,
+                "speed": 18,
+                "spatk": 6,
+                "spdef": 9
+            },
+            {
+                "multiplier": 1.1
+            }
+        ],
+        "movePool": [
+        ],
+        "evolves": {
+            "from": "Grist",
+            "to": "Grapground"
+        }
     }
 }
